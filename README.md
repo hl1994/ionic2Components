@@ -1,4 +1,4 @@
-# ionic2Components
+# Ionic Components
 
 #### Ionic Affix: https://github.com/aliok/ion-affix
 
@@ -7,6 +7,8 @@
 #### Ionic Item Expand: https://github.com/loringdodge/ionic-item-expand
 
 #### Ionic Animated Popup: https://github.com/kevincobain2000/ionic-animated-popup
+
+#### Ionic 2 Image Loader: https://github.com/zyra/ionic-image-loader
 
 #### Ionic 2 Custom Components: https://github.com/cocamm/ionic2_components
 
