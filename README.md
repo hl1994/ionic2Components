@@ -8,6 +8,8 @@
 
 #### Ionic Animated Popup: https://github.com/kevincobain2000/ionic-animated-popup
 
+#### Ionic 2 Messenger: https://github.com/tiniestory/ionic-messenger-starter
+
 #### Ionic 2 Image Loader: https://github.com/zyra/ionic-image-loader
 
 #### Ionic 2 Custom Components: https://github.com/cocamm/ionic2_components
