@@ -1,4 +1,5 @@
 # Ionic Components
+## Awesome Ionic2 Components: https://github.com/fishme/awesome-ionic2-components
 
 #### Ionic Affix: https://github.com/aliok/ion-affix
 
